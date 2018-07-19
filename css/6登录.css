@@ -1,0 +1,223 @@
+body,ul>li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+top{
+    width: 100%;
+    height: 58vh;
+    margin: 0;
+    padding: 0;
+}
+.top{
+    width: 100%;
+    height: 7.5vh;
+}
+.top_find_top{
+    width: 100%;
+    height:7.5vh ;
+    border-bottom: 0.1vh solid #c4c4c4;
+
+}
+.top_find_top>a{
+    width: 4vw;
+    height: 3vh;
+    float: left;
+    margin-left: 5vw;
+    margin-top: 3.5vh;
+}
+.top_find_top>a>img{
+    width: 3vw;
+    height: 2vh;
+}
+.top_find_text{
+    width: 12vw;
+    height: 2.4vh;
+    float: right;
+    margin-right: 7vw;
+    margin-top: 3vh;
+}
+.top_find_text>p{
+    width:12vw;
+    height: 3vh;
+    margin: 0;
+    padding: 0;
+    font-size: 3.8vw;
+    text-align: center;
+    line-height: 2.4vh;
+    color: #88d549;
+}
+/*top*/
+
+.content{
+    width: 100%;
+    height:92.5vh;
+    background-color: #eff2ec;
+    border-top: 0.1vh solid white;
+}
+.login_box{
+    width: 82vw;
+    height: 22vh;
+    background-color: white;
+    border-radius: 5%;
+    margin-left: 8vw;
+    margin-top: 4vh;
+    border: 0.01vw solid white;
+}
+.user_box{
+    width: 70vw;
+    height: 6vh;
+    margin-left: 7vw;
+    margin-top:4vh;
+}
+.user_box>img{
+    width: 5vw;
+    height: 3vh;
+    vertical-align: middle;
+}
+.user_box>input{
+    width: 58vw;
+    height: 3vh;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0.1vh solid #ebebeb;
+    margin-left: 3vw;
+    color: #949494;
+}
+
+
+
+
+
+
+
+
+
+
+
+.pwd_box{
+    width: 70vw;
+    height: 6vh;
+    margin-left: 7vw;
+    margin-top:2vh;
+}
+.pwd_box>img{
+    width: 5vw;
+    height: 3vh;
+    vertical-align: middle;
+}
+.pwd_box>input{
+    width: 58vw;
+    height: 3vh;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0.1vh solid #ebebeb;
+    margin-left: 3vw;
+    color: #949494;
+}
+/*login_box*/
+
+.forget_password{
+    width: 26vw;
+    height: 2vh;
+    color: #88d549;
+    float: right;
+    margin-right: 8vw;
+    margin-top: 2vh;
+}
+.forget_password>p{
+    width: 26vw;
+    height: 2vh;
+    color: #88d549;
+    float: right;
+    text-align: center;
+    font-size: 2.3vh;
+}
+
+.login_btn{
+    width: 82vw;
+    height: 8vh;
+    background-color: #f54d32;
+    border-radius: 5%;
+    margin-left: 8vw;
+    margin-top: 20vh;
+    text-align: center;
+    border-top: 0.001vh solid #f54d32;
+}
+.login_btn>a{
+    width: 82vw;
+    height: 8vh;
+}
+.login_btn>a>p{
+    width: 20vw;
+    height: 7vh;
+    color: #fff;
+    text-align: center;
+    font-size: 4vh;
+    margin-left: 30vw;
+    margin-top: 10vh;
+    line-height: 7vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
